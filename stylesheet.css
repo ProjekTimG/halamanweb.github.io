@@ -295,9 +295,8 @@ input {
 
 /* Conten 2 */
 .contents2 {
-    height: 500px;
+    height: 1200px;
     margin-top: 100px;
-    float: left;
 }
 
 .section-tittle2 {
@@ -339,3 +338,25 @@ html {
 #TKJ {}
 
 #RPL {}
+
+footer{
+    padding-top:30px;
+    padding-bottom:20px;
+    padding-right: 30px;
+    display:block;
+    background-color: rgba(34, 49, 52);
+    height: 2%;
+
+}
+footer img{
+    width: 125px;
+    float: left;
+    padding-left: 40px;
+}
+footer li{
+    text-align : right;
+    padding-bottom:10px;
+}
+footer a{
+    color:white;
+}
